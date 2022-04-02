@@ -6,7 +6,7 @@
 :root {
 	/* INTERNAL VARS */
 	--black0: #061115;
-	--black1: #000102;
+	--black1: #0A1419;
 	--black2: #061115;
 	--black3: #061115;
 	--black4: #061115;
@@ -25,7 +25,7 @@
 
 	/* MUTED VARS */
 	--black2_muted: #061115;
-	--black1_muted: #000102;
+	--black1_muted: #0A1419;
 	--black3_muted: #061115;
 	--gray0_muted: #D9D7D6;
 	--gray1_muted: #D9D7D6;
