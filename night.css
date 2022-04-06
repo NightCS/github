@@ -21,6 +21,7 @@
 	--green: #78B892;
 	--lavender: #BC83E3;
 	--blue: #6791C9;
+  --cyan: #67afc1;
 	--pink: #BC83E3;
 
 	/* MUTED VARS */
@@ -32,18 +33,18 @@
 	--white_muted: #D9D7D6;
 	--gray2_muted: #D9D7D6;
 	--black4_muted: #061115;
-	--red_muted: #DF5B61;
-	--yellow_muted: #DE8F78;
-	--peach_muted: #DE8F78;
-	--green_muted: #78B892;
-	--lavender_muted: #BC83E3;
-	--blue_muted: #0f1620;
-	--pink_muted: #BC83E3;
+	--red_muted: #df5b6227;
+	--yellow_muted: #de907827;
+	--peach_muted: #de907827;
+	--green_muted: #78b8922d;
+	--lavender_muted: #bd83e333;
+	--blue_muted: #6791c925;
+	--pink_muted: #bd83e333;
 
 	/* DARKEN STUFF */
 	--green_darken: #78B892;
 	--green_darkest: #78B892;
-	--blue_darken: #78B892;
+	--blue_darken: #6791c9;
 
 	/* CONTRIBUTION GRAPH */
 	--color-graph-L1: #DF5B61;
@@ -284,13 +285,13 @@
 
 	/* PRETTYLIGHTS CODE SYNTAX HIGHLIGHTING */
 	--color-prettylights-syntax-comment: var(--gray0) !important;
-	--color-prettylights-syntax-constant: var(--blue) !important;
+	--color-prettylights-syntax-constant: var(--cyan) !important;
 	--color-prettylights-syntax-entity: var(--blue) !important;
 	--color-prettylights-syntax-storage-modifier-import: var(--white) !important;
 	--color-prettylights-syntax-entity-tag: var(--green) !important;
-	--color-prettylights-syntax-keyword: var(--red) !important;
+	--color-prettylights-syntax-keyword: var(--pink) !important;
 	--color-prettylights-syntax-string: var(--green) !important;
-	--color-prettylights-syntax-variable: var(--yellow) !important;
+	--color-prettylights-syntax-variable: var(--blue) !important;
 	--color-prettylights-syntax-brackethighlighter-unmatched: var(--peach) !important;
 	--color-prettylights-syntax-invalid-illegal-text: var(--white) !important;
 	--color-prettylights-syntax-invalid-illegal-bg: var(--red_muted) !important;
